@@ -1,0 +1,19 @@
+{
+  "name": "Hori Miona (Kaerimichi)",
+  "symbol": "NGZK",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3vwRCSv6AgZxJ6TY3SisZfebEPdaLYeQYvJ6XfRY8ZaC",
+        "share": 100
+      }
+    ]
+  }
+}
